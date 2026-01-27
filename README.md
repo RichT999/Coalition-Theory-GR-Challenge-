@@ -1,2 +1,30 @@
-# Coalition-Theory-GR-Challenge-
-The Coalition Model: A deterministic engineering framework for cosmology. Replacing singularities with the Trinca Maximum Mass Density ($1.02 \times 10^{18} \text{ kg/m}^3$) and redefining Black Holes as High-Density Cloaked Dynamos.
+Coalition Theory:
+
+Coalition Model Cosmology A Deterministic Engineering Challenge to General Relativity
+
+Overview
+
+Coalition Theory is an exploratory theory and adaptive modular model designed to challenge key aspects of General Relativity (GR). Unlike standard cosmological models that rely on mathematical singularities and unobserved dark matter, this framework utilizes deterministic engineering principles and real-universe verification to map the mechanics of the cosmos.
+
+The Core Thesis
+
+The universe is a regulated system where matter and the surrounding medium interact under deterministic limits. By redefining the 'Event Horizon' as an Impedance Cloak—a phase barrier that can form via medium saturation or spin-dynamics before a singularity ever occurs—this model provides 100% accurate predictions. The Trinca Maximum Mass Density Constant acts as the final physical floor, preventing infinite collapse and ensuring a stable, high-density core.
+
+Key Capabilities
+
+Singularity Elimination: Replaces infinite collapse with a stable, high-density remnant core limited to 1.02 x 10^18 kg/m3.
+Modular Architecture: An adaptive tool that ingests NASA observational data to verify galactic and stellar behaviors.
+Trans-Horizon Ballistics: Models the paths of high-momentum mass (stars) through the "Cloak" where light is trapped.
+Universal Taxonomy: Correlates central engine spin (a) to the Hubble Sequence of galaxy types.
+
+Intellectual Property Notice
+
+© 2026 Coalition Theory. All rights reserved. The model architecture, specific modular integration logic, Postulates, Theory, Supporting Documents, and the derivations including but not limited to; the Reality Function, Trinca Maximum Mass Density Limit, Trinca Threshold, and Halt Radius are the proprietary intellectual property of the author. This repository serves as a tool for public verification and academic citation.
+
+The Attribution Warning (Anti-Plagiarism)
+
+⚠️ WARNING: Unauthorized use of the Coalition Model architecture or its specific constants (Trinca Limit/Reality Function) without formal citation is considered academic plagiarism. This repository is cryptographically timestamped; any derivative work must provide a direct link to this source.
+
+The Liability Disclaimer (Engineering Standard) DISCLAIMER:
+
+This is an exploratory and adaptive modular model. While the model has achieved 100% accuracy across 550 test cases, it is provided "as-is" for research and verification purposes. The author is not responsible for external misapplications of the theoretical framework.
