@@ -27,7 +27,9 @@ Overview
 Coalition Theory is an exploratory theory and adaptive modular model designed to challenge key aspects of General Relativity (GR). Unlike standard cosmological models that rely on mathematical singularities and unobserved dark matter, this framework utilizes deterministic engineering principles and real‑universe verification to map the mechanics of the cosmos.
 
 The Core Thesis
-The universe is a regulated system where matter and the surrounding medium interact under deterministic limits. By redefining the “Event Horizon” as an Impedance Cloak — a phase barrier that can form via medium saturation or spin‑dynamics before a singularity ever occurs — this model provides deterministic predictions. The Trinca Maximum Mass Density Constant acts as the final physical floor, preventing infinite collapse and ensuring a stable, high‑density core.
+The universe is a regulated system where matter and the surrounding medium interact under deterministic limits. By redefining the “Event Horizon” as an Impedance Cloak — a phase barrier that can form via medium saturation or spin‑dynamics before a singularity ever occurs — this model provides deterministic predictions.
+
+The Trinca Maximum Mass Density Constant acts as the final physical floor, preventing infinite collapse and ensuring a stable, high‑density core.
 
 Key Capabilities
 Singularity Elimination — Replaces infinite collapse with a stable, high‑density remnant core limited to 
@@ -45,13 +47,17 @@ Universal Taxonomy — Correlates central engine spin (a) to the Hubble Sequence
 
 Intellectual Property Notice
 © 2026 Coalition Theory. All rights reserved.
+
 The model architecture, modular integration logic, postulates, theory, supporting documents, and derivations — including but not limited to the Reality Function, Trinca Maximum Mass Density Limit, Trinca Threshold, and Halt Radius — are the proprietary intellectual property of the author.
 
 This repository serves as a tool for public verification and academic citation.
 
 ⚠️ Attribution Warning (Anti‑Plagiarism)
 Unauthorized use of the Coalition Model architecture or its specific constants (Trinca Limit / Reality Function) without formal citation is considered academic plagiarism.
+
 This repository is cryptographically timestamped; any derivative work must provide a direct link to this source.
 
+Liability Disclaimer (Engineering Standard)
+This is an exploratory and adaptive modular model. While the model has achieved high accuracy across extensive test cases, it is provided “as‑is” for research and verification purposes. The author is not responsible for external interpretations or downstream applications.
 Liability Disclaimer (Engineering Standard)
 This is an exploratory and adaptive modular model. While the model has achieved high accuracy across extensive test cases, it is provided “as‑is” for research and verification purposes. The author is not responsible for external interpretations or downstream applications.
