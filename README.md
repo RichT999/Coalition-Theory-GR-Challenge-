@@ -2,6 +2,28 @@ Coalition Theory:
 
 Coalition Model Cosmology A Deterministic Engineering Challenge to General Relativity
 
+📘 License & Confidentiality Notice
+This repository contains proprietary software, documentation, theory frameworks, simulation logic, and associated materials (“Confidential Materials”). All materials are the exclusive intellectual property of Richard Barry Trinca Jr.
+
+Access to this repository is provided solely for private evaluation and peer review.
+
+By accessing, viewing, or interacting with any portion of this repository, you acknowledge and agree that:
+
+All materials are confidential and proprietary
+
+You may not disclose, share, publish, or distribute any portion of the Confidential Materials
+
+You may not copy, reproduce, store, or transmit the Confidential Materials in any form
+
+You may not use the Confidential Materials for any purpose other than private evaluation
+
+You may not host, deploy, or run the Software in any networked or shared environment
+
+You may not sublicense, transfer, or grant access to any third party
+
+Accessing this repository constitutes acceptance of the full Coalition Proprietary License and the confidentiality obligations described therein.
+See Coalition License and NOTICE.txt for complete terms.
+
 Overview
 
 Coalition Theory is an exploratory theory and adaptive modular model designed to challenge key aspects of General Relativity (GR). Unlike standard cosmological models that rely on mathematical singularities and unobserved dark matter, this framework utilizes deterministic engineering principles and real-universe verification to map the mechanics of the cosmos.
