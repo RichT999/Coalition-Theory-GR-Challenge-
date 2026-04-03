@@ -61,6 +61,9 @@ This repository serves as a tool for public verification and academic citation.
 Unauthorized use of the Coalition Model architecture or its specific constants (Trinca Limit / Reality Function) without formal citation is considered academic plagiarism.
 
 This repository is cryptographically timestamped; any derivative work must provide a direct link to this source.
+This repository contains the public-facing theoretical framework of Coalition Theory.
+The simulation engine, verification architecture, and SIM-series modules are maintained
+in a private repository.
 
 ---
 
