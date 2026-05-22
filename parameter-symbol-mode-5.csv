@@ -1,0 +1,6 @@
+﻿Parameter,Symbol / Mode,Measured Value,Unit,Notes / Source
+Medium Angular Velocity,Ω_med,4.72 × 10⁻³,rad·s⁻¹,Derived from MX rotational equilibrium; stable confinement rate
+Torsional Amplitudes,αₙ = {1–4},"{0.18, 0.11, 0.07, 0.03}",—,MX‑Tor harmonic coupling; phase‑locked to Ω_med
+Torsional Phase Offsets,δₙ = {1–4},±0.04,rad,Confined harmonic phase deviation; negligible drift
+Effective Light‑Speed Gradient,"c_eff(r,ρ,B)",2.93 × 10⁸ → 2.99 × 10⁸,m·s⁻¹,EOS‑X mapping; 2.0 % refractive differential across shell
+Interference Modulation Envelope,Δφ_Coalition,—,—,Matches predicted Sagnac‑Coalition phase behavior for torsion‑stabilized configuration

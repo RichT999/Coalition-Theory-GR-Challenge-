@@ -1,0 +1,11 @@
+﻿Sim ID,Acc %,Δ,Eqns,A,M,C,Provenance,Notes
+"SIMX‑
+201",92.4,"'+0.0","CV, BX, MX, E#, R#, c_eff, EOS‑X, MX‑Tor",HR,Mix,🟩,NDE‑A,Stable n=4 torsion mode
+"SIMX‑
+202",93.1,"'+0.7","CV, BX, MX, E#, R#, c_eff, EOS‑X, MX‑Tor",HR,Mix,🟩,NDE‑B,Stronger torsion; radius matches arc
+"SIMX‑
+203",91.8,−1.3,"CV, BX, MX, E#, R#, c_eff, EOS‑X, MX‑Tor",EGR,PR,🟩,NDE‑C,Node drift; periodicity weaker
+"SIMX‑
+204",94.0,"'+2.2","CV, BX, MX, E#, R#, c_eff, EOS‑X, MX‑Tor",HR,Mix,🟩,NDE‑D,Best‑fit n=6 torsional spacing
+"SIMX‑
+205",89.7,−4.3,"CV, BX, MX, E#, R#, c_eff, EOS‑X, MX‑Tor",Mix,Obs,🟩,NDE‑E,Over‑driven fission term; asymmetry

@@ -1,0 +1,21 @@
+﻿Category,Schrödinger Equation (Legacy QM),Coalition Theory (Deterministic Medium Model)
+Ontology,Uses a wavefunction Ψ with no physical medium; purely mathematical.,"Uses real medium fields (density, tension, orientation) with physical meaning."
+Core Variable,"Ψ(x,t) lives in configuration space; not directly measurable.","Medium‑state variables live in real 3‑space, measurable or inferable."
+Time Structure,Requires a global absolute time for ∂Ψ/∂t.,Uses local medium time tied to density and propagation thresholds.
+Linearity,Strictly linear; superposition is built‑in.,"Nonlinear due to thresholds, saturation, and containment transitions."
+Collapse,Not part of the equation; added externally via Born rule + projection.,Collapse is a deterministic threshold event in the medium.
+Measurement,Requires separate postulates; observer‑dependent.,Measurement = containment breach or recoil node formation; observer irrelevant.
+Scaling,Exponential blow‑up in 3N configuration space.,"Scales naturally because fields live in real space, not configuration space."
+Many‑Body Behavior,"Requires approximations (Hartree–Fock, DFT, perturbation).",Emerges from local medium interactions and density gradients.
+Relativity Compatibility,Incompatible with relativity unless patched with QFT.,Uses medium‑dependent propagation; no spacetime curvature required.
+Energy Interpretation,Uses operators and eigenvalues; abstract.,Energy = medium tension + density gradients + rotation state.
+Wave Behavior,Probability waves.,Physical waves in the medium with real propagation laws.
+Collapse Zone Logic,Undefined; treated as instantaneous and nonlocal.,"Collapse zones are finite, density‑bounded regions with deterministic transitions."
+Nonlocality,Built‑in via entanglement and instantaneous collapse.,Apparent nonlocality emerges from pre‑aligned medium orientation fields.
+Boundary Conditions,Mathematical constraints on Ψ.,"Physical constraints: density, tension, rotation, and medium continuity."
+Interpretation Count,Dozens of interpretations; no consensus.,Single deterministic ontology; no interpretations needed.
+Falsifiability,Limited — predictions often statistical.,"Fully falsifiable via threshold predictions, collapse radii, and propagation asymmetries."
+Collapse Speed,Undefined; often treated as instantaneous.,"Collapse propagation speed = medium‑dependent, measurable."
+Vacuum Definition,Empty space with fields on top.,Vacuum = low‑density medium state with structure and orientation.
+Mathematical Domain,"Hilbert space, operators, eigenstates.",Real‑space PDEs with density‑dependent coefficients.
+Physical Intuition,Weak; relies on abstraction.,"Strong; grounded in mechanical, medium‑based intuition."

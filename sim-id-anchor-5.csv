@@ -1,0 +1,6 @@
+﻿Sim ID,Anchor,Confirmation,Provenance,Notes
+201,HR,🟩,NDE‑A,Stable torsional mode
+202,HR,🟩,NDE‑B,Stronger torsion; good curvature match
+203,EGR,🟩,NDE‑C,Node drift; partial degradation
+204,HR,🟩,NDE‑D,Best‑fit harmonic spacing
+205,Mix,🟩,NDE‑E,Asymmetry under over‑driven E#

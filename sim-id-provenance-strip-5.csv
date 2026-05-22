@@ -1,0 +1,6 @@
+﻿Sim ID,Provenance Strip,Case,Corridor Notes
+SIMX‑201,NDE‑A,NS,Torsional n=4 mode stable; shell radius consistent with HR‑anchored expansion.
+SIMX‑202,NDE‑B,NS,Increased nuclear‑loading parameter strengthens torsional amplitude; curvature matches observed arc.
+SIMX‑203,NDE‑C,NS,Early EGR‑linked breakdown; torsional nodes drift; periodicity partially degraded.
+SIMX‑204,NDE‑D,NS,n=6 torsional harmonic cleanly expressed; circumferential spacing matches Big‑Ring periodicity.
+SIMX‑205,NDE‑E,NS,Over‑driven fission term induces shell asymmetry; partial collapse of torsional nodes.

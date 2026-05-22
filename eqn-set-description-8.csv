@@ -1,0 +1,9 @@
+﻿Eqn Set,Description,Role in NDE‑02
+CV,Core Volume / Density Limit,Defines nuclear‑loading threshold; triggers confinement failure.
+BX,Boundary‑Layer Magnetic Balance,Determines cloak stability; breakdown initiates ejection.
+MX,Collapse–Reversal Dynamics,Links HR/EGR to onset of blowout.
+E#,Nuclear Energy Budget,Fission‑assisted energy release driving shell expansion.
+R#,Radial Expansion Law,Governs shell radius evolution.
+c_eff,Effective Light Speed,Maps true radius to observed comoving radius.
+EOS‑X,Early‑Medium EOS,Controls medium impedance and c_eff suppression.
+MX‑Tor,Torsional Harmonic Modes,Produces circumferential density nodes.
