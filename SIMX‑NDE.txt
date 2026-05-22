@@ -1,0 +1,234 @@
+Here’s a SIMX‑compatible equation‑set mapping for
+“Nuclear‑Loaded Dynamo Shell Ejection” you can drop straight into the SIMX ledger as a new block (e.g., SIMX‑NDE).
+
+SIMX‑NDE: Equation‑set mapping for Nuclear‑Loaded Dynamo Shell Ejection
+Module ID: SIMX‑NDE
+Scenario: Nuclear‑loaded cloaked dynamo → shell ejection → galaxy‑shell formation
+
+1. Core density, confinement, and breakdown
+CV‑Set (Core Volume / Density Limit)
+
+𝜌
+≤
+𝜌
+TMMC
+,
+𝑃
+(
+𝜌
+,
+𝑇
+,
+𝐵
+)
+→
+confinement limit
+Role: Enforces Trinca Maximum Mass Density and defines when the dynamo core is at nuclear‑loading threshold.
+
+BX‑Set (Boundary / Cloak Conditions)
+
+∇
+𝑃
++
+∇
+Φ
++
+𝐽
+×
+𝐵
+=
+0
+Role: Magneto‑hydrostatic balance at the cloak radius; breakdown of this balance triggers ejection.
+
+MX‑Set (Mixed Field / Collapse–Reversal)
+
+𝑑
+𝑑
+𝑡
+(
+HR
+,
+EGR
+)
+→
+0
+−
+⇒
+reversal / blowout
+Role: Links Halt Radius / Energy Gradient Reversal to onset of shell ejection.
+
+2. Nuclear loading and fission energy release
+E#‑Set (Nuclear Energy Budget)
+
+𝐸
+nuc
+=
+∑
+𝑖
+𝑁
+𝑖
+ 
+𝑄
+𝑖
+fission
++
+∑
+𝑗
+𝑀
+𝑗
+ 
+𝑄
+𝑗
+fusion
+Role: Total nuclear energy available from super‑heavy, neutron‑rich nuclei in the core.
+
+Δρ/ΔT‑Set (Thermal Runaway / Instability)
+
+∂
+𝜌
+∂
+𝑇
+∣
+𝐵
+<
+0
+⇒
+runaway expansion
+Role: Encodes the condition where heating from fission/fusion drives loss of confinement.
+
+3. Shell ejection kinematics
+R#‑Set (Radial Shell Expansion)
+
+𝑅
+(
+𝑡
+)
+=
+𝑅
+0
++
+𝑣
+shell
+𝑡
+,
+𝑣
+shell
+≲
+0.5
+𝑐
+eff,0
+Role: First‑order shell radius evolution; used to map ejection epoch to present‑day shell size.
+
+G#‑Set (Gravitational + Magnetic Acceleration)
+
+𝑅
+¨
+=
+−
+𝐺
+𝑀
+core
+𝑅
+2
++
+𝐹
+𝐵
+(
+𝑅
+)
+𝑀
+shell
+Role: Competing gravity vs magnetic / pressure forces during early expansion.
+
+4. Medium, light‑propagation, and apparent size
+c_eff‑Set (Effective Light Speed in Medium)
+
+𝑐
+eff
+=
+1
+𝜇
+ 
+𝜀
+medium
+Role: Slowed‑light early universe; maps true shell radius to apparent comoving size and redshift.
+
+EOS‑X Marker (Early‑Medium Equation of State)
+
+𝑃
+=
+𝑃
+(
+𝜌
+,
+𝑇
+,
+𝐵
+,
+composition
+)
+Role: Tags runs where early‑epoch EOS and high‑B medium strongly modify c_eff and expansion history.
+
+5. Structure formation on the shell
+Δp‑Set (Fragmentation / Clumping on Shell)
+
+𝛿
+𝑃
+(
+𝑅
+,
+𝜃
+,
+𝜙
+)
+→
+𝛿
+𝜌
+(
+𝑅
+,
+𝜃
+,
+𝜙
+)
+Role: Small pressure perturbations on the shell grow into proto‑galactic condensations.
+
+MX‑Torsion (Torsional Mode on Shell)
+
+Ψ
+(
+𝜃
+,
+𝜙
+,
+𝑡
+)
+∼
+∑
+𝑛
+𝐴
+𝑛
+cos
+⁡
+(
+𝑛
+𝜙
+−
+𝜔
+𝑛
+𝑡
+)
+Role: Produces repeating circumferential density nodes → observed “beads” / periodic bright spots.
+
+6. SIMX hook‑up
+SIMX‑NDE‑01:  
+CV + BX + MX + E# + R# + c_eff + EOS‑X
+Use: Baseline nuclear‑loaded shell ejection, no torsion.
+
+SIMX‑NDE‑02:  
+CV + BX + MX + E# + R# + c_eff + EOS‑X + MX‑Torsion
+Use: Shell ejection with torsional nodes → Big‑Ring‑like periodic structure.
+
+SIMX‑NDE‑03:  
+CV + BX + MX + E# + R# + G# + Δp + MX‑Torsion
+Use: Full galaxy‑shell formation with clumping and harmonic node pattern.
