@@ -71,3 +71,17 @@ in a private repository.
 
 This is an exploratory and adaptive modular model. While the model has achieved high accuracy across extensive test cases, it is provided “as‑is” for research and verification purposes. The author is not responsible for external interpretations or downstream applications.
 
+GitHub Profile (full repo list)
+https://github.com/RichT999
+
+Coalition Theory GR Challenge
+https://github.com/RichT999/Coalition-Theory-GR-Challenge-
+
+Coalition Universe Model
+https://github.com/RichT999/Coalition-Universe-Model
+
+SIMX Series — Simulation Summary
+https://github.com/RichT999/SIMX-Series-simulation-Summary
+
+SIM-Series Output Tables
+https://github.com/RichT999/SIM-series-OUTPUT-TABLES
